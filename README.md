@@ -1,7 +1,7 @@
-#Language
+# Language
 
 HTML, CSS, JavaScript
 
-#Framework
+# Framework
 
 ReactJS
